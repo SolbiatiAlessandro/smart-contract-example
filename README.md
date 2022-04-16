@@ -2,4 +2,5 @@ https://ethereum.org/en/developers/tutorials/hello-world-smart-contract-fullstac
 
 ```
 npx hardhat compile
+npx hardhat run scripts/interact.js
 ```
