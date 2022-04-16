@@ -9,7 +9,7 @@ contract HelloWorld {
 		message = initMessage;
 	}
 
-	function update(string public newMessage) public {
+	function update(string memory newMessage) public {
 		string memory oldMsg = message;
 		message = newMessage;
 		emit UpdatedMessages(oldMsg, newMessage);
