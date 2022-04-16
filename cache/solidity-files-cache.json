@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/lessandro/Hacking/ETH/storage-dapp/contracts/HelloWorld.sol": {
-      "lastModificationDate": 1650111774570,
-      "contentHash": "ca2fc0a0f91459b54ad34849cc51efb6",
+      "lastModificationDate": 1650111857355,
+      "contentHash": "69b42dcd6a1ae7c51a8008ab587e3fb2",
       "sourceName": "contracts/HelloWorld.sol",
       "solcConfig": {
         "version": "0.7.3",
